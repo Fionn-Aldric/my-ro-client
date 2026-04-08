@@ -9,11 +9,11 @@
                 <display>ro-single-server</display>
                 <desc></desc>
                 <balloon></balloon>
-                <address>111.249.25.40</address>
+                <address>36.228.215.98</address>
                 <port>6900</port>
                 <version>45</version>
                 <langtype>3</langtype>
-                <registrationweb>http://111.249.25.40:8096/ro</registrationweb>
+                <registrationweb>http://36.228.215.98:8096/ro</registrationweb>
                 <yellow>
                         <!-- <admin>2000000</admin> -->
                 </yellow>
